@@ -1,1 +1,5 @@
-print('Hello new world! Conflict!!!')
+a = 1
+b = 1
+c = a+b
+print('c=', c)
+
